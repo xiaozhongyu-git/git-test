@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("Hello GitLab Hot-fix test!");
         System.out.println("Hello GitLab Push test!");//test remark on github
         System.out.println("Commit by SSH");
+        System.out.println("Pull by SSH");
     }
 }
