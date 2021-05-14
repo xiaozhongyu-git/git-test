@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("Hello GitLab Hot-fix!");
         System.out.println("Hello GitLab master test!");
         System.out.println("Hello GitLab Hot-fix test!");
+        System.out.println("Hello GitLab Push test!");
     }
 }
